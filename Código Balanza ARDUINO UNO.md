@@ -33,7 +33,7 @@ bool btnResetPrev = HIGH;
 
 int estadoCalibracion = 0;
 unsigned long ultimaPulsac…
-[8:01 p.m., 12/7/2025] +56 9 9299 6412: #include <Wire.h>
+#include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include "HX711.h"
 
