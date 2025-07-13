@@ -1,5 +1,4 @@
-# Balanza-digital-Arduino-UNO
-# Código balanza digital para ARDUINO UNO
+// Código balanza digital para ARDUINO UNO
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include "HX711.h"
