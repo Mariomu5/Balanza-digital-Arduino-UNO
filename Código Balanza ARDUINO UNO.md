@@ -15,7 +15,7 @@ HX711 scale;
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 // --- Variables globales ---
-float cal_value_base = 2375.0;
+float cal_value_base = 1903.5;
 float cal_value = cal_value_base;
 
 bool mostrarEnMiligramos = true;
